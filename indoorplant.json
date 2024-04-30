@@ -1,0 +1,110 @@
+{
+    "trees": [
+    {
+        "name": "Spider Plant",
+        "soil_type": "sandy soil",
+        "light_mode": "medium",
+        "light_time": 6
+    },
+    {
+        "name": "Snake Plant",
+        "soil_type": "sandy soil",
+        "light_mode": "low",
+        "light_time": 4
+    },
+    {
+        "name": "Water lili Plant",
+        "soil_type": "Silt Soil",
+        "light_mode": "hard",
+        "light_time": 8
+    },
+    {
+        "name": "Pothos Plant",
+        "soil_type": "Silt Soil",
+        "light_mode": "medium",
+        "light_time": 6
+    },
+    {
+        "name": "ZZ Plant",
+        "soil_type": "Silt Soil",
+        "light_mode": "low",
+        "light_time": 4
+    },
+    {
+        "name": "Philodendron Plant",
+        "soil_type": "sandy soil",
+        "light_mode": "hard",
+        "light_time": 8
+    },
+    {
+        "name": "Fiddle Leaf Fig Plant",
+        "soil_type": "Clay Soil",
+        "light_mode": "medium",
+        "light_time": 6
+    },
+    {
+        "name": "Monstera Deliciosa Plant",
+        "soil_type": "Clay Soil",
+        "light_mode": "low",
+        "light_time": 4
+    },
+    {
+        "name": "Aloe Vera Plant",
+        "soil_type": "Clay Soil",
+        "light_mode": "hard",
+        "light_time": 8
+    },
+
+
+    {
+        "name": "Rubber Plant Lily",
+        "soil_type": "loamy soil",
+        "light_mode": "low",
+        "light_time": 4
+    },
+    {
+        "name": "Chinese Money Plant",
+        "soil_type": "clay soil",
+        "light_mode": "low",
+        "light_time": 4
+    },
+    {
+        "name": "Bird of Paradise Plant",
+        "soil_type": "Silt Soil",
+        "light_mode": "medium",
+        "light_time": 8
+    },
+    {
+        "name": "String of Pearls Lily",
+        "soil_type": "loamy soil",
+        "light_mode": "hard",
+        "light_time": 8
+    },
+    {
+        "name": "Calathea Plant",
+        "soil_type": "clay soil",
+        "light_mode": "low",
+        "light_time": 4
+    },
+    {
+        "name": "Parlor Palm Plant",
+        "soil_type": "sandy soil",
+        "light_mode": "medium",
+        "light_time": 8
+    },
+    {
+        "name": "Boston Fern Lily",
+        "soil_type": "loamy soil",
+        "light_mode": "medium",
+        "light_time": 6
+    },
+    {
+        "name": "Lucky Bamboo Plant",
+        "soil_type": "clay soil",
+        "light_mode": "low",
+        "light_time": 4
+    }
+]
+}
+
+  

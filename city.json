@@ -1,0 +1,68 @@
+{
+"city": [
+    {
+      "name": "Baridhara",
+      "scientific_name": "Quercus",
+      "family": "Fagaceae",
+      "soil_type": "Loam",
+      "water_level": "Moderate",
+      "total_area": "Large",
+      "soil_ph": "6.0-7.5",
+      "average_height_m": 25,
+      "average_diameter_cm": 100,
+      "lifespan_years": 200,
+      "shade_tolerance": "Intermediate",
+      "wildlife_benefits": ["Acorns for birds and mammals", "Provides habitat for insects"],
+      "native_region": "Northern Hemisphere",
+      "image_url": "https://example.com/oak.jpg"
+    },
+    {
+      "name": "Netrakona",
+      "scientific_name": "Quercus",
+      "family": "Fagaceae",
+      "soil_type": "Loam",
+      "water_level": "Moderate",
+      "total_area": "Large",
+      "soil_ph": "6.0-7.5",
+      "average_height_m": 25,
+      "average_diameter_cm": 100,
+      "lifespan_years": 200,
+      "shade_tolerance": "Intermediate",
+      "wildlife_benefits": ["Acorns for birds and mammals", "Provides habitat for insects"],
+      "native_region": "Northern Hemisphere",
+      "image_url": "https://example.com/oak.jpg"
+    },
+    {
+      "name": "Mahakhali",
+      "scientific_name": "Quercus",
+      "family": "Fagaceae",
+      "soil_type": "Loam",
+      "water_level": "Moderate",
+      "total_area": "Large",
+      "soil_ph": "6.0-7.5",
+      "average_height_m": 25,
+      "average_diameter_cm": 100,
+      "lifespan_years": 200,
+      "shade_tolerance": "Intermediate",
+      "wildlife_benefits": ["Acorns for birds and mammals", "Provides habitat for insects"],
+      "native_region": "Northern Hemisphere",
+      "image_url": "https://example.com/oak.jpg"
+    },
+    {
+      "name": "Joar Sahara",
+      "scientific_name": "Quercus",
+      "family": "Fagaceae",
+      "soil_type": "Loam",
+      "water_level": "Moderate",
+      "total_area": "Large",
+      "soil_ph": "6.0-7.5",
+      "average_height_m": 25,
+      "average_diameter_cm": 100,
+      "lifespan_years": 200,
+      "shade_tolerance": "Intermediate",
+      "wildlife_benefits": ["Acorns for birds and mammals", "Provides habitat for insects"],
+      "native_region": "Northern Hemisphere",
+      "image_url": "https://example.com/oak.jpg"
+    }
+    ]
+  }
